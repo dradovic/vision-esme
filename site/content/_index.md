@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "esme"
+subtitle: A circular approach to social media.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why esme?
