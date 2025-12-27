@@ -1,35 +1,37 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="-2 -2 104 104" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       circle {
-        fill: none;
-        stroke: #FFD700; /* Gold color */
+        fill: rgba(255, 215, 0, 0.2);
+        stroke: #FFD700;
         stroke-width: 2;
-        opacity: 0.8;
+        stroke-opacity: 0.8;
       }
     </style>
   </defs>
-  <!-- Center circle -->
-  <circle cx="50" cy="50" r="20" />
   
-  <!-- First ring (Seed of Life) -->
-  <circle cx="50" cy="30" r="20" />
-  <circle cx="67.32" cy="40" r="20" />
-  <circle cx="67.32" cy="60" r="20" />
-  <circle cx="50" cy="70" r="20" />
-  <circle cx="32.68" cy="60" r="20" />
-  <circle cx="32.68" cy="40" r="20" />
+  <!-- Outer Big Circle -->
+  <circle cx="50" cy="50" r="50" />
+
+  <!-- Center -->
+  <circle cx="50" cy="50" r="25" />
   
-  <!-- Second ring (Flower of Life completion - simplified/cropped for icon) -->
-  <circle cx="50" cy="10" r="20" />
-  <circle cx="67.32" cy="20" r="20" />
-  <circle cx="84.64" cy="50" r="20" />
-  <circle cx="67.32" cy="80" r="20" />
-  <circle cx="50" cy="90" r="20" />
-  <circle cx="32.68" cy="80" r="20" />
-  <circle cx="15.36" cy="50" r="20" />
-  <circle cx="32.68" cy="20" r="20" />
+  <!-- Top -->
+  <circle cx="50" cy="25" r="25" />
   
-  <!-- Outer clipping reinforcement for visual weight -->
-  <circle cx="50" cy="50" r="48" stroke-width="3" />
+  <!-- Top Right -->
+  <circle cx="71.65" cy="37.5" r="25" />
+  
+  <!-- Bottom Right -->
+  <circle cx="71.65" cy="62.5" r="25" />
+  
+  <!-- Bottom -->
+  <circle cx="50" cy="75" r="25" />
+  
+  <!-- Bottom Left -->
+  <circle cx="28.35" cy="62.5" r="25" />
+  
+  <!-- Top Left -->
+  <circle cx="28.35" cy="37.5" r="25" />
+  
 </svg>
