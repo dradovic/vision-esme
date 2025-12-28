@@ -18,4 +18,7 @@ pricing:
     - name: Number of Own Circles
       free: "0"
       basic: "1"
+    - name: Number of Participants per Circle
+      free: n/a
+      basic: "20"
 ---
