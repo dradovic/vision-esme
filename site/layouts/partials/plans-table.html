@@ -7,10 +7,11 @@
             <table class="f6 w-100 mw8 center" cellspacing="0">
                 <thead>
                     <tr>
-                        <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Feature</th>
+                        <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white"></th>
                         {{ range .plans }}
                         <th class="fw6 bb b--black-20 tc pb3 pr3 bg-white">
                             <div class="f4 b">{{ .plan }}</div>
+                            <div class="f6 gray normal">{{ .subtitle }}</div>
                         </th>
                         {{ end }}
                     </tr>
