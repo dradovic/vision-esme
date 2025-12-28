@@ -8,13 +8,13 @@ pricing:
     - plan: Free
       price: '0'
       description: Perfect for getting started.
-      items:
-        - Basic access
-        - Limited support
+      items: []
     - plan: Basic
       price: '10'
       description: For those who need more.
-      items:
-        - Full access
-        - Priority support
+      items: []
+  features:
+    - name: Number of Own Circles
+      free: '0'
+      basic: '1'
 ---

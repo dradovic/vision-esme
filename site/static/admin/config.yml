@@ -100,6 +100,13 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Price, name: price, widget: string}
                   - {label: Description, name: description, widget: text}
                   - {label: Items, name: items, widget: list}
+              - label: Features
+                name: features
+                widget: list
+                fields:
+                  - {label: Feature Name, name: name, widget: string}
+                  - {label: Free Value, name: free, widget: string}
+                  - {label: Basic Value, name: basic, widget: string}
   - name: "site_settings"
     label: "Site Settings"
     files:
