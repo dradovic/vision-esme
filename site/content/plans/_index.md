@@ -3,10 +3,10 @@ title: Plans
 image: /img/plans-jumbotron.jpg
 pricing:
   heading: Our Plans
-  description: Simple. Same plan for everyone.
+  description: Simple. Same for everyone.
   plans:
     - plan: Free Trial
-      subtitle: max. 3 months
+      subtitle: 1 month
       items: []
     - plan: Member
       subtitle: 
@@ -14,11 +14,11 @@ pricing:
   features:
     - name: Price
       free: €0
-      basic: €5/month  or  €50/year
-    - name: Number of Circles Initiations
-      free: "1"
+      basic: €3/month  or  €30/year
+    - name: Number of Circle Initiations
+      free: "5"
       basic: "5"
     - name: Number of Participants per Circle
-      free: "10"
-      basic: "50"
+      free: "20"
+      basic: "20"
 ---
