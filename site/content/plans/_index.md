@@ -8,14 +8,16 @@ pricing:
     - plan: Free
       description: Perfect for getting started.
       items: []
+      price: "0"
     - plan: Basic
       description: For those who need more.
       items: []
+      price: "20"
   features:
     - name: Price per Month
-      free: '$0'
-      basic: '$10'
+      free: $0
+      basic: $20
     - name: Number of Own Circles
-      free: '0'
-      basic: '1'
+      free: "0"
+      basic: "1"
 ---
