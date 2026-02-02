@@ -5,7 +5,7 @@ description: "Privacy Policy for Esme"
 
 # Privacy Policy
 
-Last updated: {{< now.Format "January 2, 2006" >}}
+Last updated: February 2, 2026
 
 At Esme, we believe your data belongs to you. We built Esme with a "Zero Knowledge" architecture, meaning we physically cannot read your messages or view your content.
 
