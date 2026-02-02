@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+image: "/img/blog-index.jpg"
 description: "Privacy Policy for Esme"
 ---
 
