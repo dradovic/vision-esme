@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "esme"
+title = "Esme"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
